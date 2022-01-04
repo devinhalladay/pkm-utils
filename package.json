@@ -1,0 +1,19 @@
+{
+  "name": "pkm-utils",
+  "version": "1.0.0",
+  "description": "Devin Halladay's misc utils for PKM tool customizations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinhalladay/pkm-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devinhalladay/pkm-utils/issues"
+  },
+  "homepage": "https://github.com/devinhalladay/pkm-utils#readme"
+}
