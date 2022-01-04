@@ -1205,8 +1205,7 @@ html[data-theme=light] {
 	border-radius: 			5px;
 	color: 					var(--cl-dove);
 	font-family: 			'iA Writer Quattro S', sans-serif;
-	font-size: 				1me;
-	font-weight: 			;
+	font-size: 				1em;
 	opacity: 				1;
 }
 .dark-theme *:is(*:is(#main-content-container, #right-sidebar, .tippy-tooltip, .ls-card) a.tag:hover), html[data-theme=dark] *:is(*:is(#main-content-container, #right-sidebar, .tippy-tooltip, .ls-card) a.tag:hover) {
@@ -3771,4 +3770,8 @@ html {
 
 .blocks-container .items-baseline {
 	align-items: self-end;
+}
+
+.blocks-container {
+  font-size: 18px;
 }
